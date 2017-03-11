@@ -1,0 +1,6 @@
+file_cache_path "/var/chef/cache"
+cookbook_path "/var/chef/cookbooks"
+nodes_path "/var/chef/nodes"
+data_bag_path "/var/chef/data_bags"
+role_path "/var/chef/roles"
+environment_path "/var/chef/environments"
